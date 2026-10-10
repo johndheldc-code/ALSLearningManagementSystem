@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "439343262642",
+    "project_id": "als-learning-management-system",
+    "storage_bucket": "als-learning-management-system.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439343262642:android:3a3272cca2c6fa10e312ab",
+        "android_client_info": {
+          "package_name": "com.example.alslearningmanagementsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHoxSMEK0oc4TKBrH3oQQu48j5XTcwvLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
